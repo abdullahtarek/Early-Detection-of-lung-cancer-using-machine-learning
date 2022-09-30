@@ -14,4 +14,4 @@ The LUNA data set is a subset from the LIDC dataset but no previous implementati
 
 
 <h2> GUI </h2>
-<img src="https://github.com/abdullahtarek/Early-Detection-of-lung-cancer-using-machine-learning/blob/master/Screenshot_1.png">
+<img src="https://github.com/abdullahtarek/Early-Detection-of-lung-cancer-using-machine-learning/blob/master/Screenshot_1.png"> 
